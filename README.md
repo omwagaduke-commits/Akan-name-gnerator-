@@ -39,5 +39,5 @@ Email: omwagaduke@gmail.com
 
 MIT License
 
-Copyright © 2026 Your Name
+Copyright © 2026 Omwaga Duke
 
