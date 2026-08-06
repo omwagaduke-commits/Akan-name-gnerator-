@@ -8,9 +8,9 @@ Omwaga Duke
  Akan birth name discovery is a web application that calculates the day of the week a user was born and generates the corresponding Ghanaian Akan name based on their gender.
 
 ## Live Site
-GitHub Repository: https://github.com/omwagaduke-commits/Akan-name-gnerator-.git
+GitHub Repository:  https://omwagaduke-commits.github.io/Akan-name-gnerator-/
 
-Live Demo: https://github.com/omwagaduke-commits/Akan-name-gnerator-.git
+Live Demo:  https://omwagaduke-commits.github.io/Akan-name-gnerator-/
 
 ## Setup Instructions
 
